@@ -1,38 +1,37 @@
 # HTML COMPONENTS
 
-- `<html>` tag: This tag acts as a container for every other element in the document except the `<!DOCTYPE html>` tag.
+- `<html>` tag: Acts as a container for every other element in the document except the `<!DOCTYPE html>` tag.
 - `<head>` tag: Includes all the document's metadata.
-- `<title>` tag: Defines the title of the document which is displayed in the browser's title bar.
-- `<body>` tag: Acts as a container for the document's content that gets displayed on the browser.
+- `<title>` tag: Defines the title of the document displayed in the browser's title bar.
+- `<body>` tag: Acts as a container for the document's content displayed on the browser.
 
-This is how it all comes together:
-
+Example:
 ```html
 <!DOCTYPE html>
 <html lang="en">
  <head>
- <title> Code Help HTML Cheat Sheet </title>
+ <title> HTML Cheat Sheet </title>
  </head>
 <body> .... </body>
 </html>
 ```
 
-`<!DOCTYPE html>` specifies that we are working with an HTML5 document.
+`<!DOCTYPE html>` specifies an HTML5 document.
 
-The following tags contribute extra information to the HTML document:
+Extra information tags:
+- `<meta>` tag: Defines additional information about the webpage.
+- `<link>` tag: Links the document to an external resource.
+- `<style>` tag: Defines styles for the document.
+- `<script>` tag: Contains code snippets (usually JavaScript) or links to external scripts.
 
-- `<meta>` tag: This tag can be used to define additional information about the webpage.
-- `<link>` tag: Used to link the document to an external resource.
-- `<style>` tag: Used for defining styles for the document.
-- `<script>` tag: Used to write code snippets (usually JavaScript) or to link the document to an external script.
-
+Example:
 ```html
 <head>
  <meta charset="UTF-8" />
  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
  <link rel="stylesheet" href="style.css" />
- <title>Code Help HTML Cheat Sheet</title>
+ <title>HTML Cheat Sheet</title>
  <style>
  *{
  font-size: 40px;

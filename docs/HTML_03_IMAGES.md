@@ -9,5 +9,5 @@ Here are some attributes of the `<img/>` tag:
 - `border` specifies the thickness of the borders around the image. If no border is added, it is set to 0.
 
 ```html
-<img src="logo.png" alt="Code Help Logo" width="200" height="200">
+<img src="logo.png" alt="Taral Sojitra Git-repo Logo" width="200" height="200">
 ```

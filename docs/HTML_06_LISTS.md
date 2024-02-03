@@ -7,13 +7,13 @@
 ```html
 <!-- Unordered List -->
 <ul>
- <li> Course 1</li>
- <li> Course 2 </li>
- <li> Course 3</li>
+ <li> Taral Sojitra Git-repo 1</li>
+ <li> Taral Sojitra Git-repo 2 </li>
+ <li> Taral Sojitra Git-repo 3</li>
 </ul>
 <!-- Ordered List -->
 <ol>
- <li> Course 1 </li>
- <li> Course 2 </li>
- <li> Course 3 </li>
+ <li> Taral Sojitra Git-repo 1 </li>
+ <li> Taral Sojitra Git-repo 2 </li>
+ <li> Taral Sojitra Git-repo 3 </li>
 </ol>

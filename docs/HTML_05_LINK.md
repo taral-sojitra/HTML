@@ -7,4 +7,5 @@ The `<a>` tag, also referred to as the anchor tag, is used to establish hyperlin
 - The `target` attribute specifies where the linked document or resource should be opened. This could be in the same window or a new window.
 
 ```html
-<a href="https://www.taral_sojitra.com/" target="_blank">Taral Sojitra</a>
+<a href="https://www.linkedin.com/in/taralsojitra/" target="_blank">Taral Sojitra Linkedin</a>
+<a href="https://github.com/taral-sojitra" target="_blank">Taral Sojitra Git Hub</a>
